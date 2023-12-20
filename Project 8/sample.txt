@@ -1,0 +1,77 @@
+// Mode 0
+
+input1:
+0 0 0
+8 1 4 5 6 0 x
+
+output1:
+810456
+
+// Mode 1 
+
+input1:
+1 1 0
+8 1 4 5 6 0 x
+
+output1:
+410658
+
+// Mode 2 
+input1:
+2 0 8
+8 1 4 5 6 0 x
+
+output1:
+8
+
+input2:
+2 0 9
+8 1 4 5 6 0 x
+
+output2:
+-1
+
+input3:
+2 1 6
+8 1 4 5 6 0 x
+
+output3:
+6
+
+// Mode 3 
+input1:
+3 0 9
+5 6 7 8 9 x
+
+output1:
+5678
+
+// Mode 4
+input1:
+4 1 5
+8 5 10 7 9 4 x
+
+output1:
+847109 or 874109
+
+input2:
+4 1 10
+8 5 10 7 9 4 x
+
+output2:
+85479
+
+// Mode 5 
+input1:
+5 1 0
+1 6 7 0 4 8 9 2 x
+
+output1:
+3
+
+input2:
+5 0 0
+1 6 7 0 4 8 9 2 x
+
+output2:
+4
