@@ -1,0 +1,30 @@
+Mode 0
+op 1:
+7643
+
+Mode 1
+op 2:
+4
+
+Mode 2
+out 3:
+1
+
+out 4:
+-1
+
+Mode 3: (Insert)
+out 5:
+983
+
+Mode 4: (Remove)
+op 6:
+79
+
+Mode 5: (Reverse)
+op 7:
+987610
+
+Mode 6:
+op 8:
+0
