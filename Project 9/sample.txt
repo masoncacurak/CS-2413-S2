@@ -1,0 +1,31 @@
+// Mode 0
+input:
+0            
+7 11 9 10 2 x
+
+output:
+2791110
+
+// Mode 1 - Correct
+input:
+1
+7 11 9 10 2 x
+
+output:
+2
+
+// Mode 2
+input:
+2
+7 11 9 10 2 x
+
+output:
+710911
+
+// Mode 3
+input:
+3
+x
+
+output:
+12345
